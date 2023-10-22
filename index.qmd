@@ -1,0 +1,69 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Herzlich Willkommen {.unnumbered}
+
+Willkommen auf der Kurswebsite zum Workshop:
+
+**Einführung in Generative AI**
+
+Diese Website enthält alle Materialien für den Workshop *Introduction to Generative AI*, der von [TechAcademy e.V.](https://tech-academy.io) als Pre-Conference-Workshop der efl-Jahrestagung 2023 an der Goethe-Universität angeboten wird.
+
+## Ziel des Workshops
+
+Generative KI sorgt täglich für Schlagzeilen und wird voraussichtlich die Art und Weise, wie viele Dinge in Zukunft erledigt werden, dramatisch verändern. In diesem Kurs werden generative KI vorgestellt und Anwendungsfälle aus der täglichen Arbeit einer studentischen Initiative präsentiert. Der Kurs ist praxisorientiert und die Teilnehmer werden ermutigt, verschiedene Algorithmen und Anwendungsfälle auf ihrem eigenen Computer auszuprobieren.
+
+
+## Workshopbeschreibung
+
+Der Workshop richtet sich an Anfänger im Bereich Python und/oder Generative AI. 
+
+Der Workshop beinhaltet:
+
+- Theoretischer Hintergrund, was Generative KI ist
+- Use Cases und praktischer Teil in den Bereichen Text2Text, Text2Image, Image2Image
+- ChatBot für unternehmensspezifische Daten
+
+Die Sprache des Workshops ist Deutsch, das Material wird in Englisch zur Verfügung gestellt.
+
+## Organisation
+
+Der Workshop findet am 15.11.2023 um 12 Uhr im Raum 1.202 des RuW Gebäudes auf dem Campus Westend statt.
+
+Wir wollen, dass Sie sich *die Hände schmutzig machen* --- das heißt, wir wollen, dass Sie programmieren!
+Das bloße Anschauen von Folien wird Ihnen nicht auf magische Weise die Fähigkeit des Programmierens vermitteln.
+Aber wenn Sie sich aktiv mit dem Kursinhalt in Ihrer Entwicklungsumgebung auseinandersetzen, werden Sie genau das tun.
+
+Aus diesem Grund müssen Sie sich entsprechend vorbereiten: Bitte stellen Sie sicher, dass Sie vor dem Kurs Zugang zu [Google Colab](https://colab.research.google.com/) haben.
+Wir werden Google Colab für die Codierung verwenden, so dass wir Python ohne (manchmal zeitaufwändige) Vorkonfiguration oder Installation auf Ihrem Rechner nutzen können.
+Um Google Colab zu nutzen, benötigen Sie ein Google-Konto (dasselbe Konto, das auch für Gmail, YouTube, etc. verwendet wird).
+
+Wenn Sie Fragen haben, melden Sie sich bitte an eine der E-Mail-Adressen am Ende dieser Seite.
+
+## Materialien
+
+- Präsentation: [Link zur Präsentation](Link)
+
+- Use Case 1: Text2Text
+[Link zum Notebook](linktocolab)
+
+- Use Case 2: Text2Image
+[Link zum Notebook](linktocolab)
+
+- Use Case 3: Imgage2Image
+[Link zum Notebook](linktocolab)
+
+## Kursleiter
+
+-   **Tilo Flasche**, Master in Informatik, [send me an email](mailto:tilo.flasche@tech-academy.io)
+
+-   **Jan Bischoff**, Master in Marketing Analytics, [send me an email](mailto:jan.bischoff@tech-academy.io)
+
+## Danksagung {.unnumbered}
+
+Wir möchten uns ausdrücklich bei Prof. Dr. Skiera für die Möglichkeit diesen Workshop im Rahmen der efl Conference zu halten.
+
+Ein großer Dank geht auch an die anderen Mitglieder der TechAcademy e.V., insbesondere an Clara Schneiker und Eve Eichler für die Organisation  des TechAcademy e.V. Infostands und Jessica Weigl für das konstruktive Feedback zum Workshop.
