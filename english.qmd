@@ -64,6 +64,6 @@ If you have any questions, please reach out to one of us through the e-mail addr
 
 ## Acknowledgement {.unnumbered}
 
-Wir möchten uns ausdrücklich bei Prof. Dr. Skiera für die Möglichkeit diesen Workshop im Rahmen der efl Conference zu halten bedanken.
+We would like to thank Prof. Dr. Skiera for the opportunity to hold this workshop at the efl Conference.
 
-Ein großer Dank geht auch an die anderen Mitglieder der TechAcademy e.V., insbesondere an Clara Schneiker und Eve Eichler für die Organisation  des TechAcademy e.V. Infostands und Jessica Weigl für das konstruktive Feedback zum Workshop.
+A big thank you also goes to the other members of TechAcademy e.V., especially to Clara Schneiker and Eve Eichler for organizing the TechAcademy e.V. info booth and Jessica Weigl for the constructive feedback on the workshop.
