@@ -4,6 +4,8 @@ project:
 website:
   navbar:
     background: primary
+    search: false
+    logo: files/FINALfulllogoTA2023_wt.png
     left:
       - text: "Deutsch"
         file: index.qmd

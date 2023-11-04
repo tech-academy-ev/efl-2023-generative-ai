@@ -56,11 +56,11 @@ If you have any questions, please reach out to one of us through the e-mail addr
 
 - Template Personal Chatbot [Link to notebook](https://colab.research.google.com/github/Jan23Bischoff/personal_chatbot_template/blob/main/Personal_Chatbot_Template.ipynb)
 
-## Kursleiter
+## Course Instructors
 
--   **Tilo Flasche**, Master in Informatik, [send me an email](mailto:tilo.flasche@tech-academy.io)
+-   **Tilo Flasche**, Master in Informatik, [send me an email](mailto:tilo.flasche@tech-academy.io) / [Linkedin](https://www.linkedin.com/in/tilo-flasche-328b11187/)
 
--   **Jan Bischoff**, Master in Marketing Analytics, [send me an email](mailto:jan.bischoff@tech-academy.io)
+-   **Jan Bischoff**, Master in International Management, [send me an email](mailto:jan.bischoff@tech-academy.io) / [Linkedin](www.linkedin.com/in/jan-bischoff-43563b1a4)
 
 ## Acknowledgement {.unnumbered}
 

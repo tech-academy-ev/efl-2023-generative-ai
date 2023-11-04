@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Einführung in Generative AI",
+    "section": "",
+    "text": "Diese Website enthält alle Materialien für den Workshop Introduction to Generative AI, der von TechAcademy e.V. als Pre-Conference-Workshop der efl-Conference 2023 an der Goethe-Universität angeboten wird."
+  },
+  {
+    "objectID": "index.html#ziel-des-workshops",
+    "href": "index.html#ziel-des-workshops",
+    "title": "Einführung in Generative AI",
+    "section": "Ziel des Workshops",
+    "text": "Ziel des Workshops\nGenerative AI sorgt täglich für Schlagzeilen und wird voraussichtlich die Art und Weise, wie viele Dinge in Zukunft erledigt werden, dramatisch verändern. In diesem Kurs werden generative AI Modelle und deren Anwendungsfälle präsentiert. Der Kurs ist praxisorientiert und die Teilnehmer werden ermutigt, verschiedene Algorithmen und Anwendungsfälle auf ihrem eigenen Computer auszuprobieren."
+  },
+  {
+    "objectID": "index.html#voraussetzungen",
+    "href": "index.html#voraussetzungen",
+    "title": "Einführung in Generative AI",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\nDer Workshop richtet sich an Anfänger im Bereich von Generative AI. Vorkenntnisse in Python und Erfahrung mit Jupyter Notebooks sind hilfreich, aber nicht zwingend erforderlich."
+  },
+  {
+    "objectID": "index.html#organisation",
+    "href": "index.html#organisation",
+    "title": "Einführung in Generative AI",
+    "section": "Organisation",
+    "text": "Organisation\nDer Workshop findet am 15.11.2023 um 12 Uhr im Raum 1.201 des RuW Gebäudes auf dem Campus Westend statt.\nBitte stellen Sie sicher, dass Sie vor dem Kurs Zugang zu Google Colab haben. Wir werden Google Colab für das Programmieren verwenden, so dass wir Python ohne (manchmal zeitaufwändige) Vorkonfiguration oder Installation auf Ihrem Rechner nutzen können. Um Google Colab zu nutzen, benötigen Sie ein Google-Konto (dasselbe Konto, das auch für Gmail, YouTube, etc. verwendet wird).\nWenn Sie Fragen haben, melden Sie sich bitte an eine der E-Mail-Adressen am Ende dieser Seite."
+  },
+  {
+    "objectID": "index.html#materialien",
+    "href": "index.html#materialien",
+    "title": "Einführung in Generative AI",
+    "section": "Materialien",
+    "text": "Materialien\n\nUse Case 1: Übersetzungsmodell Link zum Notebook\nUse Case 2: Interaktive Tabellenbefragung Link zum Notebook\nUse Case 3: Textklassifikation Link zum Notebook\nUse Case 4: Fragenbeantwortung Link zum Notebook\nUse Case 5: Textzusammenfassung Link zum Notebook\nUse Case 6: Sentimentanalyse Link zum Notebook\nUse Case 7: Textgenerierung Link zum Notebook\nUse Case 8: Bildgenerierung Link zum Notebook\nUse Case 9: Audiotranskription Link zum Notebook\nUse Case 10: Bildbeschreibungszuordnung Link zum Notebook\nVorlage Persönlicher Chatbot Link zum Notebook"
+  },
+  {
+    "objectID": "index.html#kursleiter",
+    "href": "index.html#kursleiter",
+    "title": "Einführung in Generative AI",
+    "section": "Kursleiter",
+    "text": "Kursleiter\n\nTilo Flasche, Master in Informatik, E-Mail / Linkedin\nJan Bischoff, Master in International Management, E-Mail / Linkedin"
+  },
+  {
+    "objectID": "index.html#danksagung",
+    "href": "index.html#danksagung",
+    "title": "Einführung in Generative AI",
+    "section": "Danksagung",
+    "text": "Danksagung\nWir möchten uns ausdrücklich bei Prof. Dr. Skiera für die Möglichkeit diesen Workshop im Rahmen der efl Conference zu halten bedanken.\nEin großer Dank geht auch an die anderen Mitglieder der TechAcademy e.V., insbesondere an Clara Schneiker und Eve Eichler für die Organisation des TechAcademy e.V. Infostands und Jessica Weigl für das konstruktive Feedback zum Workshop."
+  },
+  {
+    "objectID": "english.html",
+    "href": "english.html",
+    "title": "Introduction to Generative AI",
+    "section": "",
+    "text": "This website contains all material for the workshop Introduction to Generative AI by TechAcademy e.V.. The workshop is held as pre-conference workshop of the efl-Conference 2023 at Goethe University Frankfurt."
+  },
+  {
+    "objectID": "english.html#course-objective",
+    "href": "english.html#course-objective",
+    "title": "Introduction to Generative AI",
+    "section": "Course Objective",
+    "text": "Course Objective\nGenerative AI is making headlines every day and is expected to dramatically change the way many things will be done in the future. In this course, generative AI models will be introduced and use cases will be presented. The course is hands-on and participants are encouraged to try out different algorithms and use cases on their own computer."
+  },
+  {
+    "objectID": "english.html#prerequisites",
+    "href": "english.html#prerequisites",
+    "title": "Introduction to Generative AI",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThe workshop is aimed at beginners in the field of Generative AI. Previous knowledge of Python and experience with Jupyter Notebooks are helpful, but not mandatory."
+  },
+  {
+    "objectID": "english.html#organisation",
+    "href": "english.html#organisation",
+    "title": "Introduction to Generative AI",
+    "section": "Organisation",
+    "text": "Organisation\nThe workshop will take place on 15.11.2023 at 12:00 in room 1.201 of the RuW building on the Westend campus.\nPlease ensure that you have access to Google Colab before the course. We will use Google Colab for the coding parts, such that we can use Python without (sometimes time-consuming) pre-configuration or installation on your machine. To use Google colab, you need a Google account (same account which is used for Gmail, YouTube, etc.)\nIf you have any questions, please reach out to one of us through the e-mail addresses on the bottom of this page."
+  },
+  {
+    "objectID": "english.html#material",
+    "href": "english.html#material",
+    "title": "Introduction to Generative AI",
+    "section": "Material",
+    "text": "Material\n\nUse Case 1: Language Translation Link to notebook\nUse Case 2: Table Question Answering Link to notebook\nUse Case 3: Text Classification Link to notebook\nUse Case 4: Question Answering Link to notebook\nUse Case 5: Text Summarization Link to notebook\nUse Case 6: Sentiment Analysis Link to notebook\nUse Case 7: Text Generation Link to notebook\nUse Case 8: Image Generation Link to notebook\nUse Case 9: Audiotranscription Link to notebook\nUse Case 10: Image Description Matching Link to notebook\nTemplate Personal Chatbot Link to notebook"
+  },
+  {
+    "objectID": "english.html#kursleiter",
+    "href": "english.html#kursleiter",
+    "title": "Introduction to Generative AI",
+    "section": "Kursleiter",
+    "text": "Kursleiter\n\nTilo Flasche, Master in Informatik, send me an email / Linkedin\nJan Bischoff, Master in International Management, send me an email / Linkedin"
+  },
+  {
+    "objectID": "english.html#acknowledgement",
+    "href": "english.html#acknowledgement",
+    "title": "Introduction to Generative AI",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\nWe would like to thank Prof. Dr. Skiera for the opportunity to hold this workshop at the efl Conference.\nA big thank you also goes to the other members of TechAcademy e.V., especially to Clara Schneiker and Eve Eichler for organizing the TechAcademy e.V. info booth and Jessica Weigl for the constructive feedback on the workshop."
+  },
+  {
+    "objectID": "english.html#course-instructors",
+    "href": "english.html#course-instructors",
+    "title": "Introduction to Generative AI",
+    "section": "Course Instructors",
+    "text": "Course Instructors\n\nTilo Flasche, Master in Informatik, send me an email / Linkedin\nJan Bischoff, Master in International Management, send me an email / Linkedin"
+  }
+]
