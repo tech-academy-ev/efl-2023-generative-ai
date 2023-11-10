@@ -6,7 +6,7 @@ Diese Website enthält alle Materialien für den Workshop *Introduction to Gener
 
 ## Ziel des Workshops
 
-Generative AI sorgt täglich für Schlagzeilen und wird voraussichtlich die Art und Weise, wie viele Dinge in Zukunft erledigt werden, dramatisch verändern. In diesem Kurs werden generative AI Modelle und deren Anwendungsfälle präsentiert. Der Kurs ist praxisorientiert und die Teilnehmer werden ermutigt, verschiedene Algorithmen und Anwendungsfälle auf ihrem eigenen Computer auszuprobieren.
+Generative AI sorgt täglich für Schlagzeilen und wird voraussichtlich die Art und Weise, wie viele Dinge in Zukunft erledigt werden, dramatisch verändern. In diesem Kurs werden generative AI Modelle und deren Anwendungsfälle präsentiert.
 
 
 ## Voraussetzungen
@@ -18,54 +18,29 @@ Der Workshop richtet sich an Anfänger im Bereich von Generative AI. Vorkenntnis
 
 Der Workshop findet am 15.11.2023 um 12 Uhr im Raum 1.201 des RuW Gebäudes auf dem Campus Westend statt.
 
-Bitte stellen Sie sicher, dass Sie vor dem Kurs Zugang zu [Google Colab](https://colab.research.google.com/) haben.
-Wir werden Google Colab für das Programmieren verwenden, so dass wir Python ohne (manchmal zeitaufwändige) Vorkonfiguration oder Installation auf Ihrem Rechner nutzen können.
-Um Google Colab zu nutzen, benötigen Sie ein Google-Konto (dasselbe Konto, das auch für Gmail, YouTube, etc. verwendet wird).
-
-Wenn Sie Fragen haben, melden Sie sich bitte an eine der E-Mail-Adressen am Ende dieser Seite.
+Wenn Sie Fragen haben, melden Sie sich bitte bei einem Kursleiter unter einer der E-Mail-Adressen am Ende dieser Seite.
 
 ## Materialien
 
 - Use Case 1: Übersetzungsmodell
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/LanguageTranslation.ipynb)
+[Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/LanguageTranslation.ipynb)
 
-- Use Case 2: Interaktive Tabellenbefragung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/TableQuestionAnswering.ipynb)
+- Use Case 2: Sentimentanalyse
+[Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/SentimentAnalysis.ipynb)
 
-- Use Case 3: Textklassifikation
+- Use Case 3: Tabellenbefragung
 [Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/TextClassification.ipynb)
 
-- Use Case 4: Fragenbeantwortung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/QuestionAnswering.ipynb)
-
-- Use Case 5: Textzusammenfassung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/TextSummarization.ipynb)
-
-- Use Case 6: Sentimentanalyse
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/SentimentAnalysis.ipynb)
-
-- Use Case 7: Textgenerierung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/TextGeneration.ipynb)
-
-- Use Case 8: Bildgenerierung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/StableDiffusion.ipynb)
-
-- Use Case 9: Audiotranskription
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/AudioTranscription.ipynb)
-
-- Use Case 10: Bildbeschreibungszuordnung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/ImageDescriptionMatching.ipynb)
-
-- Vorlage Persönlicher Chatbot [Link zum Notebook](https://colab.research.google.com/github/Jan23Bischoff/personal_chatbot_template/blob/main/Personal_Chatbot_Template.ipynb)
+- Vorlage Persönlicher Chatbot [Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/TableQuestionAnswering.ipynb)
 
 ## Kursleiter
 
 -   **Tilo Flasche**, Master in Informatik, [E-Mail](mailto:tilo.flasche@tech-academy.io) / [Linkedin](https://www.linkedin.com/in/tilo-flasche-328b11187/)
 
--   **Jan Bischoff**, Master in International Management, [E-Mail](mailto:jan.bischoff@tech-academy.io) / [Linkedin](www.linkedin.com/in/jan-bischoff-43563b1a4)
+-   **Jan Bischoff**, Master in International Management, [E-Mail](mailto:jan.bischoff@tech-academy.io) / [Linkedin](https://www.linkedin.com/in/jan-bischoff-43563b1a4)
 
 ## Danksagung {.unnumbered}
 
-Wir möchten uns ausdrücklich bei Prof. Dr. Skiera für die Möglichkeit diesen Workshop im Rahmen der efl Conference zu halten bedanken.
+Wir möchten uns ausdrücklich bei Prof. Dr. Skiera bedanken, dass wir diesen Workshop im Rahmen der efl Conference halten können.
 
-Ein großer Dank geht auch an die anderen Mitglieder der TechAcademy e.V., insbesondere an Clara Schneiker und Eve Eichler für die Organisation  des TechAcademy e.V. Infostands und Jessica Weigl für das konstruktive Feedback zum Workshop.
+Ein großer Dank geht auch an die anderen Mitglieder der TechAcademy e.V., insbesondere an Eve-Fabiene Eichler für die Organisation des TechAcademy e.V. Infostands und Jessica Weigel für das konstruktive Feedback zum Workshop.
