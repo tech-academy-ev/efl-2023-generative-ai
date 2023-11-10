@@ -31,7 +31,7 @@ Wenn Sie Fragen haben, melden Sie sich bitte bei einem Kursleiter unter einer de
 - Use Case 3: Tabellenbefragung
 [Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/TableQuestionAnswering.ipynb)
 
-- Vorlage Persönlicher Chatbot [Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/TableQuestionAnswering.ipynb)
+- Vorlage Persönlicher Chatbot [Link zum Notebook](https://colab.research.google.com/github/Jan23Bischoff/personal_chatbot_template/blob/main/Personal_Chatbot_Template.ipynb)
 
 ## Kursleiter
 
