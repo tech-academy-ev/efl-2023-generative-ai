@@ -29,7 +29,7 @@ Wenn Sie Fragen haben, melden Sie sich bitte bei einem Kursleiter unter einer de
 [Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/SentimentAnalysis.ipynb)
 
 - Use Case 3: Tabellenbefragung
-[Link zum Notebook](https://colab.research.google.com/github/TNodeCode/hugging-face-demo/blob/main/TextClassification.ipynb)
+[Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/TableQuestionAnswering.ipynb)
 
 - Vorlage Persönlicher Chatbot [Link zum Notebook](https://colab.research.google.com/github/tech-academy-ev/efl-2023-generative-ai/blob/main/notebooks/TableQuestionAnswering.ipynb)
 
